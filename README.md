@@ -1,0 +1,1 @@
+I developed a job platform using a full-stack approach with Spring Boot and MongoDB, with a primary focus on backend functionality. The platform allows users to search for job listings, submit job posts, and manage job-related data. Instead of a traditional frontend, I used Swagger API to document and test the API endpoints, emphasizing a seamless and robust backend experience.
